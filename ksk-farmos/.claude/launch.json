@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ksk-farmos-static",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd '/Users/skaissts/Desktop/macbook/работа/antigravity/ksk-general/ksk-farmos/site' && exec python3 -m http.server 5173"],
+      "port": 5173
+    }
+  ]
+}
